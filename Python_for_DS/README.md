@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DS-Learning-Journey
 Personal notes and code form Krish Naik's Sir Data Science Roadmap . Beginner-Friendly , well-commented Jupyter Notebooks and revision
 =======
@@ -36,6 +35,3 @@ Welcome to my personal Data Science learning repository! This repo contains my p
    ```bash
    git clone https://github.com/radiation-hazard/DS-Learning-Journey.git
 
-
-
->>>>>>> 96bad0c (Initial commit with clean structure)
