@@ -1,37 +1,81 @@
-# DS-Learning-Journey
-Personal notes and code form Krish Naik's Sir Data Science Roadmap . Beginner-Friendly , well-commented Jupyter Notebooks and revision
-=======
-# 🧠 Data Science Learning Journey
+## 📚 Topics Covered
 
-Welcome to my personal Data Science learning repository! This repo contains my progress, notes, code notebooks, datasets, and resources as I explore the world of Data Science.
+### 📌 01. Python Basics
+- Variables, Data Types, Typecasting
+- Operators, Conditional Statements
+- Loops and Control Flow
+- Input/Output Handling
 
----
+### 📌 02. Functions and OOP
+- Defining and Calling Functions
+- Lambda Functions
+- Classes, Objects, and Inheritance
+- Pythonic Code and Best Practices
 
-## 📁 Repository Structure
+### 📌 03. NumPy
+- Arrays vs Lists
+- Array Creation & Indexing
+- Broadcasting
+- Array Operations & Aggregations
 
----
+### 📌 04. Pandas
+- Series and DataFrames
+- Reading & Writing Files (CSV, Excel)
+- Data Selection, Filtering, Sorting
+- GroupBy, Aggregation, Missing Values
 
-## 📌 What's Inside
+### 📌 05. Data Visualization
+- Matplotlib Basics (Line, Bar, Scatter)
+- Seaborn Introduction
+- Customizing Plots
+- Visual EDA Foundations
 
-- ✅ Jupyter notebooks from various topics
-- ✅ Practice exercises and solutions
-- ✅ Excel/CSV data files for analysis
-- ✅ Useful Data Science resources and links
----
+### 📌 06. Advanced Python 
+- ...
 
-## 🧰 Tech Stack
+## 🛠️ Tools Used
 
-- Python
+- Python 3.x
 - Jupyter Notebook
-- Pandas, NumPy, Matplotlib, Seaborn
-- Scikit-learn, Statsmodels (as applicable)
-- & so on 
+- NumPy, Pandas, Matplotlib, Seaborn , PyForest
 
 ---
 
-## 🚀 How to Run
+## ✅ Progress Log
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/radiation-hazard/DS-Learning-Journey.git
+| Date | Topic | Status |
+|------|-------|--------|
+| 2025-08-05 | Python Basics | ✔️ Completed |
+| 2025-08-10 | NumPy | ✔️ Completed |
+| 2025-08-15 | Pandas | ✔️ Completed |
+| 2025-08-18 | Data Visualization | ✔️ Completed |
+
+---
+
+## 📌 Notes
+
+- Each folder contains **notebooks** with examples and **practice exercises**.
+- I’ve added comments and markdown cells to explain concepts clearly.
+- All code is written by me for better hands-on understanding — no copy-paste from tutorials.
+
+---
+
+## 🔗 Related Repositories
+
+- 📘 [Main Journey Repo](https://github.com/yourusername/ds-learning-journey)
+- 📊 [EDA & Statistics](https://github.com/yourusername/eda-statistics)
+- 🤖 [Machine Learning](https://github.com/yourusername/ml-algorithms)
+
+---
+
+## 🙋‍♂️ Feedback & Collaboration
+
+If you find any mistake or want to suggest improvements, feel free to:
+- Raise an issue
+- Submit a pull request
+- Connect on [LinkedIn](https://linkedin.com/in/your-profile)
+
+---
+
+> “Learning Python is the first step toward mastering the world of Data Science.”
 
