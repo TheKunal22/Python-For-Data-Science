@@ -68,6 +68,3 @@ If you find any mistake or want to suggest improvements, feel free to:
 ---
 
 > “Learning Python is the first step toward mastering the world of Data Science.”  
-
-> “Learning Python is the first step toward mastering the world of Data Science.”
-
