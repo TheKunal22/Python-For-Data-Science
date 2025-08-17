@@ -1,80 +1,133 @@
-## 📚 Topics Covered
+What I Covered In It :
 
-### 📌 01. Python Basics
-- Variables, Data Types, Typecasting
-- Operators, Conditional Statements
-- Loops and Control Flow
-- Input/Output Handling
+Topics in Krish Naik’s Complete Python Playlist:
 
-### 📌 02. Functions and OOP
-- Defining and Calling Functions
-- Lambda Functions
-- Classes, Objects, and Inheritance
-- Pythonic Code and Best Practices
+Anaconda installation & Python basics
 
-### 📌 03. NumPy
-- Arrays vs Lists
-- Array Creation & Indexing
-- Broadcasting
-- Array Operations & Aggregations
+Why Python is best for Machine Learning
 
-### 📌 04. Pandas
-- Series and DataFrames
-- Reading & Writing Files (CSV, Excel)
-- Data Selection, Filtering, Sorting
-- GroupBy, Aggregation, Missing Values
+Lists & Boolean variables
 
-### 📌 05. Data Visualization
-- Matplotlib Basics (Line, Bar, Scatter)
-- Seaborn Introduction
-- Customizing Plots
-- Visual EDA Foundations
+Sets, Dictionaries, Tuples
 
-### 📌 06. Advanced Python 
-- ...
+NumPy and built-in functions
 
-## 🛠️ Tools Used
+Pandas: DataFrames & Series (part 1)
 
-- Python 3.x
-- Jupyter Notebook
-- NumPy, Pandas, Matplotlib, Seaborn , PyForest
+Pandas: Reading CSVs (part 2)
 
----
+Pandas: Reading JSON, HTML, Pickle, Excel (part 3)
 
-## ✅ Progress Log
+Matplotlib basics (simple visualizations)
 
-| Date | Topic | Status |
-|------|-------|--------|
-| 2025-08-05 | Python Basics | ✔️ Completed |
-| 2025-08-10 | NumPy | ✔️ Completed |
-| 2025-08-15 | Pandas | ✔️ Completed |
-| 2025-08-18 | Data Visualization | ✔️ Completed |
+Seaborn: Distplot, Joinplot, Pairplot (part 1)
 
----
+Seaborn: Countplot, Violinplot, Boxplot (part 2)
 
-## 📌 Notes
+Exploratory Data Analysis (conceptual)
 
-- Each folder contains **notebooks** with examples and **practice exercises**.
-- I’ve added comments and markdown cells to explain concepts clearly.
-- All code is written by me for better hands-on understanding — no copy-paste from tutorials.
+EDA practical example: Titanic dataset
 
----
+Functions, positional & keyword arguments
 
-## 🔗 Related Repositories
+Lambda functions
 
-- 📘 [Main Journey Repo](https://github.com/yourusername/ds-learning-journey)
-- 📊 [EDA & Statistics](https://github.com/yourusername/eda-statistics)
-- 🤖 [Machine Learning](https://github.com/yourusername/ml-algorithms)
+Map functions
 
----
+Filter functions
+
+List comprehensions
+
+Advanced string formatting
+
+Iterables vs. Iterators
+
+Importing all Python DS libraries via Pyforest
+
+Object-Oriented Programming: classes, variables, methods, objects
+
+Exception handling (detailed explanation)
+
+Custom exception handling
+
+Inheritance in classes
+
+Magic methods (__init__, __str__, etc.)
+
+Assert statement usage
+
+Iterators vs. Generators
+
+Decorators in depth
+
+is vs. == — Boolean evaluation nuances
+
+60+ solved Python projects (source code included)
+
+Shallow vs. Deep Copy in Python
+
+Speeding up Pandas with Modin
+
+Class variables & class methods
+
+Static methods — in-depth understanding
+
+Multiple inheritance explained
+
+eval() function — dynamic code evaluation
+
+Asynchronous execution using threads (parallel execution)
+
+Using Vulture library for detecting dead code
+
+zip() function for parallel iteration
+
+PDF password protection using Python
+
+Creating requirements.txt via pip freeze
+
+Logging implementation in Python
+
+Secure Hash algorithms (SHA256, SHA384, etc.) — hashing in blockchain context
+
+Numba library — optimizing Python performance
+
+Tips for learning Python efficiently
+
+Public, Private & Protected access modifiers
+
+Python’s eval() and dynamic expression handling (duplicate entry?)
+
+House Price Prediction (Feature Selection recap?) – similar to #40
+
+Asynchronous execution recap? (duplicate)
+
+Unused code detection via Vulture (duplicate)
+
+zip() function recap (duplicate)
+
+PDF password protection (duplicate)
+
+Creating packages via pip freeze (duplicate)
+
+Logging recap (duplicate)
+
+Hashing algorithms recap
+
+Numba recap
+
+Productivity tips
+
+VSCode extensions for DS projects
+
+Importing modules from different directories
 
 ## 🙋‍♂️ Feedback & Collaboration
 
 If you find any mistake or want to suggest improvements, feel free to:
 - Raise an issue
 - Submit a pull request
-- Connect on [LinkedIn](https://linkedin.com/in/your-profile)
-
+- Connect on LinkedIn = https://www.linkedin.com/in/kunal~saini/
 ---
 
 > “Learning Python is the first step toward mastering the world of Data Science.”
