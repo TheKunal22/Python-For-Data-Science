@@ -59,12 +59,21 @@ Topics in Krish Naik’s Complete Python Playlist:
 
 ---
 
+Credits: Krish Naik Sir 
+
+---
+
 ## 🙋‍♂️ Feedback & Collaboration
 If you find any mistake or want to suggest improvements, feel free to:
 - Raise an issue  
 - Submit a pull request  
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/kunal~saini/)  
 
+
 ---
 
 > “Learning Python is the first step toward mastering the world of Data Science.”  
+
+
+
+
