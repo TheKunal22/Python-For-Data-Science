@@ -1,4 +1,4 @@
-# Python for Data Science — Notes & Practice  
+# Python for Data Science — Digital Notes & Practice  
 
 # These are **MUST**
 
